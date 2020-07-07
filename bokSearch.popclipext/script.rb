@@ -4,6 +4,6 @@
 
     url = "https://b-ok.cc/s/{query}"
     query = ENV['POPCLIP_TEXT']
-    url.sub!(/\{query\}/,(query)
+    url.sub!(/\{query\}/,query)
 
     %x{open "#{url}"}
