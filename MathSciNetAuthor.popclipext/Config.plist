@@ -10,16 +10,18 @@
     <key>Shell Script File</key>
     <string>script.rb</string>
     <key>Title</key>
-    <string>MSN</string>
-    
+    <string>MSNa</string>
+          <key>Image File</key>
+      <string>icon.png</string>
+
     </dict>
     </array>
     <key>Extension Description</key>
     <string>Searches for the highlighted text in MathSciNet's authors database.</string>
     <key>Extension Identifier</key>
-    <string>com.benjaminbrown.popclip.extension.MathSciNetAuthorSearch</string>
+    <string>com.benjaminbrown.popclip.extension.MathSciNetAuthor</string>
       <key>Extension Name</key>
-    <string>MathSciNet Author Search</string>
+    <string>MathSciNet Author</string>
     <key>Version</key>
     <integer>2</integer>
     </dict>

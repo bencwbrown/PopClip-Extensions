@@ -11,15 +11,17 @@
     <string>script.rb</string>
     <key>Title</key>
     <string>bok</string>
-    
+          <key>Image File</key>
+      <string>icon.png</string>
+
     </dict>
     </array>
     <key>Extension Description</key>
-    <string>Searches for the highlighted text in b-ok.cc's database.</string>
+    <string>Searches for the highlighted text in b-ok.cc's book database.</string>
     <key>Extension Identifier</key>
-    <string>com.benjaminbrown.popclip.extension.bokAuthorSearch</string>
+    <string>com.benjaminbrown.popclip.extension.bokSearch</string>
       <key>Extension Name</key>
-    <string>b-ok Author Search</string>
+    <string>b-ok Search</string>
     <key>Version</key>
     <integer>2</integer>
     </dict>
