@@ -2,7 +2,7 @@
 
     require 'cgi'
 
-    url = "https://b-ok.cc/s/?q={query}"
+    url = "https://www.wordreference.com/fren/{query}?"
     query = ENV['POPCLIP_TEXT']
     url.sub!(/\{query\}/,query)
 

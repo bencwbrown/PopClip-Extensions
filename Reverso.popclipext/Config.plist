@@ -10,18 +10,18 @@
     <key>Shell Script File</key>
     <string>script.rb</string>
     <key>Title</key>
-    <string>ZLibrary Books</string>
+    <string>Reverso</string>
           <key>Image File</key>
       <string>icon.png</string>
 
     </dict>
     </array>
     <key>Extension Description</key>
-    <string>Seaarches the ZLibrary database for books with the selected text.</string>
+    <string>Finds references for the selected text on Reverso.</string>
     <key>Extension Identifier</key>
-    <string>com.benjaminbrown.popclip.extension.ZLibraryBooks</string>
+    <string>com.benjaminbrown.popclip.extension.Reverso</string>
       <key>Extension Name</key>
-    <string>ZLibrary Books</string>
+    <string>Reverso</string>
     <key>Version</key>
     <integer>2</integer>
     </dict>
